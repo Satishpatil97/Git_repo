@@ -1,2 +1,1 @@
-select * from test;
-select * from TEST2:
+satish bhai ye local file hai
